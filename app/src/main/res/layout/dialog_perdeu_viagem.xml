@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingStart="8dp"
+    android:paddingTop="8dp"
+    android:paddingEnd="8dp"
+    android:paddingBottom="16dp">
+
+    <ImageView
+        android:id="@+id/sair_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:padding="8dp"
+        android:src="@drawable/vc_dialog_x"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/ops"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/parece_que_voce_perdeu_viagem"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+
+        />
+
+    <TextView
+        android:id="@+id/dialogTextView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:text="@string/informacao_cancelamento"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/dialogButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginHorizontal="24dp"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="#D4EDDA"
+        android:padding="16dp"
+        android:text="@string/procurar_nova_viagem"
+        android:textAllCaps="false"
+        android:textColor="#40CB4E"
+        android:textStyle="bold" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/dialogButton2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="24dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="24dp"
+        android:backgroundTint="#EDEDED"
+        android:fontFamily="@font/ubuntu_bold"
+        android:text="Ocorrência"
+        android:textAllCaps="false"
+        android:textColor="#CB4040"
+        android:textSize="16dp"
+        android:visibility="gone"
+        app:icon="@drawable/vc_ocorrencia"
+        app:iconGravity="textStart"
+        app:iconSize="32dp"
+        app:iconTint="#CB4040" />
+
+
+</LinearLayout>
+

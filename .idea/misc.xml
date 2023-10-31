@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/drawable-xxhdpi/vc_edittext_bg_200_height.xml" value="0.134" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/drawable/ic_dinheiro.xml" value="0.134" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/drawable/ic_vc_cartao.xml" value="0.1985" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/drawable/vc_fotoperfil.xml" value="0.223" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/drawable/vc_imput_nome.xml" value="0.152" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/font/ubuntu.xml" value="0.2824074074074074" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/font/ubuntu_bold.xml" value="0.3046875" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_adicionar_cartao.xml" value="0.4" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_adicionar_novo_cartao.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_bem_vindo.xml" value="0.264" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_cadastro.xml" value="0.264" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_cadastro_google.xml" value="0.4" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_dados_pessoais.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_definir_local.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_duracao_rota.xml" value="0.38388625592417064" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_editar_dados.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_historico_viagens.xml" value="0.1265625" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_navigation.xml" value="0.1265625" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_pagamento.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_recuperar_senha.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_scrolling.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_selecionar_destino_no_mapa.xml" value="0.1265625" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_splash.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/activity_tirar_foto.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/adapter_confirmarrota.xml" value="0.264" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/adapter_pagamento.xml" value="0.2734375" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/adapter_selecionar_destino.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/adapter_viagens_frequentes.xml" value="0.1265625" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/content_scrolling.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/dialog_alert.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/dialog_embarcou.xml" value="0.1265625" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/dialog_embarcou_tupi.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/dialog_fim_viagem.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/dialog_foto.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/dialog_perdeu_viagem.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/dialog_ponto_de_parada_chegou.xml" value="0.264" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/dialog_rest.xml" value="0.264" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/dialog_sair_viagem.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/dialog_tempo_motorista.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/dialog_tupi_chegou.xml" value="0.264" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/my_toolbar.xml" value="0.1265625" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/toolbar.xml" value="0.1265625" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/toolbar2.xml" value="0.1265625" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/toolbar3.xml" value="0.1265625" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/layout/toolbar_destino.xml" value="0.1265625" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/menu/menu_scrolling.xml" value="0.27447916666666666" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.152" />
+        <entry key="..\:/Projetos/Tupi/App/Passageiro/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.152" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/APP-PASSAGEIRO-JAVA/app/src/main/res/drawable/vc_cartaovcc.xml" value="0.2985" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/APP-PASSAGEIRO-JAVA/app/src/main/res/layout/activity_adicionar_cartao.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/APP-PASSAGEIRO-JAVA/app/src/main/res/layout/activity_adicionar_novo_cartao.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/APP-PASSAGEIRO-JAVA/app/src/main/res/layout/activity_cadastro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/APP-PASSAGEIRO-JAVA/app/src/main/res/layout/activity_cadastro_google.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/APP-PASSAGEIRO-JAVA/app/src/main/res/layout/activity_duracao_rota.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/APP-PASSAGEIRO-JAVA/app/src/main/res/layout/activity_historico_viagens_detalhe.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/APP-PASSAGEIRO-JAVA/app/src/main/res/layout/activity_navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/APP-PASSAGEIRO-JAVA/app/src/main/res/layout/activity_pagamento.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/APP-PASSAGEIRO-JAVA/app/src/main/res/layout/adapter_confirmarrota.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/APP-PASSAGEIRO-JAVA/app/src/main/res/layout/adapter_selecionar_destino.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/APP-PASSAGEIRO-JAVA/app/src/main/res/layout/bottom_sheet_ocorrencia_dialog2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/activity_bem_vindo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/activity_cadastro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/activity_definir_local.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/activity_editar_dados.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/activity_historico_viagens_detalhe.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/activity_navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/activity_tirar_foto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/adapter_viagens_frequentes.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/bottom_sheet_confirmar_passageiros.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/dialog_background.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/dialog_cancelar_corrida.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/dialog_embarcou_tupi.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/dialog_fim_viagem.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/dialog_foto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/dialog_perdeu_viagem.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/dialog_ponto_de_parada_chegou.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/dialog_sair_viagem.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/dialog_tempo_motorista.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/dialog_tupi_chegou.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/PASSAGEIRO/app/src/main/res/layout/toolbar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/drawable-v24/vc_areias_example.xml" value="0.1755" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/drawable-v24/vc_editar.xml" value="0.168" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/drawable-v24/vc_editarconta.xml" value="0.168" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/drawable-v24/vc_selecionar_local.xml" value="0.1755" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/drawable-xxhdpi/vc_edittext_bg_200_height.xml" value="0.14" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/drawable/drawable_splash.xml" value="0.1755" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/drawable/vc_arrow.xml" value="0.1755" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/drawable/vc_dialog_bg.xml" value="0.168" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/drawable/vc_hamburger.xml" value="0.168" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/drawable/vc_magnifyingglass.xml" value="0.168" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_adicionar_cartao.xml" value="0.264" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_adicionar_novo_cartao.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_bem_vindo.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_cadastro.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_cadastro_google.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_dados_pessoais.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_definir_local.xml" value="0.264" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_duracao_rota.xml" value="0.264" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_editar_dados.xml" value="0.2" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_historico_viagens.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_historico_viagens_detalhe.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_home2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_info_viagem.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_map.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_navigation.xml" value="0.2" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_pagamento.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_selecionar_destino_no_mapa.xml" value="0.264" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/activity_tirar_foto.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/adapter_confirmarrota.xml" value="0.264" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/adapter_duracaorota.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/adapter_historico_rotas.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/adapter_selecionar_destino.xml" value="0.6" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/adapter_viagens_frequentes.xml" value="0.264" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/bottom_sheet_confirmar_passageiros.xml" value="0.264" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/bottom_sheet_ocorrencia_dialog.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/bottom_sheet_ocorrencia_dialog2.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/dialog_background.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/dialog_cancelar_corrida.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/dialog_embarcou.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/dialog_embarcou_tupi.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/dialog_fim_viagem.xml" value="0.1" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/dialog_foto.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/dialog_perdeu_viagem.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/dialog_ponto_de_parada_chegou.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/dialog_rest.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/dialog_sair_viagem.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/dialog_tempo_motorista.xml" value="0.4" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/dialog_tupi_chegou.xml" value="0.536" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/my_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/nav_header.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/nav_header_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/toolbar2.xml" value="0.72" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/toolbar3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/layout/toolbar_destino.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/menu/menu_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/Tupi/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="true" project-jdk-name="14" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressKotlinCodeStyleNotification">
+    <option name="disableForAll" value="true" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.16" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

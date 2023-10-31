@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linear_layout_premio_sucesso"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="16dp"
+    android:orientation="vertical"
+    tools:layout_editor_absoluteX="16dp">
+
+
+    <TextView
+        android:id="@+id/dialogTextView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/ubuntu_bold"
+        android:gravity="center"
+        android:layout_marginTop="24dp"
+        android:text="Deseja sair?"
+        android:textColor="#2D2D2D"
+        android:textFontWeight="900"
+        android:textSize="32dp" />
+
+    <TextView
+        android:id="@+id/dialogTextView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/ubuntu_bold"
+        android:gravity="center"
+        android:text="Ao voltar, você encerrará a viagem atual..."
+        android:textColor="#2D2D2D" />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/dialogButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginHorizontal="24dp"
+        android:layout_marginTop="24dp"
+        android:backgroundTint="#D4EDDA"
+        android:fontFamily="@font/ubuntu_bold"
+        android:padding="16dp"
+        android:text="Continuar viagem"
+        android:textAllCaps="false"
+        android:textColor="#40CB4E"
+        android:textFontWeight="900"
+        android:textSize="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/dialogButton2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:layout_marginHorizontal="24dp"
+        android:backgroundTint="#EDEDED"
+        android:fontFamily="@font/ubuntu_bold"
+        android:layout_marginTop="16dp"
+        app:icon="@drawable/vc_ocorrencia"
+        app:iconSize="32dp"
+        app:iconTint="#CB4040"
+        app:iconGravity="textStart"
+        android:text="Cancelar viagem"
+        android:textAllCaps="false"
+        android:textColor="#CB4040"
+        android:textSize="16dp"
+    />
+
+
+</LinearLayout>
+

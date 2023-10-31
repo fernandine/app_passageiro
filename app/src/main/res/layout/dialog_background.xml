@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linear_layout_premio_sucesso"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="16dp"
+    android:orientation="vertical"
+    tools:layout_editor_absoluteX="16dp">
+
+    <ImageView
+        android:id="@+id/sair_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:padding="8dp"
+        android:src="@drawable/vc_dialog_x"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/dialogTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="O tupi precisa da sua localização,\n para melhor informar nossos motoristas\nda sua localização enquanto você mexe em outros apps."
+        android:layout_marginBottom="40dp"
+        android:textFontWeight="900"
+        android:fontFamily="@font/ubuntu_bold"
+        android:gravity="center"
+        />
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="24dp"
+    android:layout_marginBottom="32dp"
+    android:weightSum="2">
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/dialogButtonPermitir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:backgroundTint="#D4EDDA"
+        android:fontFamily="@font/ubuntu_bold"
+        android:text="Permitir"
+        android:layout_marginHorizontal="24dp"
+        android:padding="16dp"
+        android:textAllCaps="false"
+        android:textColor="#40CB4E"
+        android:textFontWeight="900"
+        android:textSize="16dp"
+        android:layout_weight="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/dialogButtonCancelar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:backgroundTint="#F8D7DA"
+        android:fontFamily="@font/ubuntu_bold"
+        android:text="Negar"
+        android:layout_marginHorizontal="24dp"
+        android:padding="16dp"
+        android:textAllCaps="false"
+        android:layout_weight="1"
+        android:textColor="#CB4040"
+        android:textFontWeight="900"
+        android:textSize="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</LinearLayout>
+
+
+
+</LinearLayout>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="db_name">tupi.db</string>
+    <integer name="db_version">2</integer>
+    <string-array name="db_scan">
+        <item>mobi.audax.tupi.passageiro.bin.bean.Arquivo</item>
+        <item>mobi.audax.tupi.passageiro.bin.bean.Cartao</item>
+        <item>mobi.audax.tupi.passageiro.bin.bean.Passenger</item>
+        <item>mobi.audax.tupi.passageiro.bin.bean.Pessoa</item>
+        <item>mobi.audax.tupi.passageiro.bin.bean.Viagem</item>
+        <item>mobi.audax.tupi.passageiro.bin.bean.ViagemFrequente</item>
+        <item>mobi.audax.tupi.passageiro.bin.bean.MinhaRota</item>
+    </string-array>
+    <string name="db_log">true</string>
+</resources>

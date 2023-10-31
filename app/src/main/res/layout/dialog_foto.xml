@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linear_layout_premio_sucesso"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="16dp"
+    android:background="@drawable/vc_dialog_bg"
+    android:orientation="vertical"
+    tools:layout_editor_absoluteX="16dp">
+
+    <ImageView
+        android:id="@+id/sair_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:padding="8dp"
+        android:src="@drawable/vc_dialog_x"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/dialogTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:textFontWeight="900"
+        android:fontFamily="@font/ubuntu_bold"
+        android:gravity="center"
+        />
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="2">
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/dialogButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Confirmar"
+        android:textAllCaps="false"
+        android:textColor="@color/primary"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="24dp"
+        android:backgroundTint="#F68B20"
+        android:textFontWeight="900"
+        android:layout_marginBottom="24dp"
+        android:fontFamily="@font/ubuntu_bold"
+        android:textSize="16dp"
+        android:layout_weight="1"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/dialogButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cancelar"
+        android:textAllCaps="false"
+        android:textColor="@color/primary"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="24dp"
+        android:backgroundTint="#F68B20"
+        android:textFontWeight="900"
+        android:layout_marginBottom="24dp"
+        android:fontFamily="@font/ubuntu_bold"
+        android:textSize="16dp"
+        android:layout_weight="1"/>
+</LinearLayout>
+
+
+
+</LinearLayout>
+

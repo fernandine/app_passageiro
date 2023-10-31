@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+        <item
+            android:id="@+id/nav_historicodeviagens"
+            android:enabled="true"
+            android:icon="@drawable/vc_historicodeviagens"
+            android:iconTint="?attr/colorPrimary"
+            android:title="@string/historico_de_viagens"
+            app:itemIconSize="50px"
+            app:showAsAction="always|withText" />
+        <item
+            android:id="@+id/nav_pagamentos"
+            android:enabled="true"
+            android:icon="@drawable/vc_menucartao"
+            android:iconTint="?attr/colorPrimary"
+            android:title="@string/pagamento" />
+
+        <item
+            android:id="@+id/nav_dadosPessoais"
+            android:enabled="true"
+            android:icon="@drawable/vc_menuperfil"
+            android:iconTint="?attr/colorPrimary"
+            android:title="@string/perfil" />
+
+</menu>

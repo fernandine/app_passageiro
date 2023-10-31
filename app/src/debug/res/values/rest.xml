@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="base_url">https://homologacao.tupi.audax.mobi/rest/</string>
+<!--    <string name="base_url">https://tupiondemand.com.br/rest/</string>-->
+<!--    <string name="base_url">http://192.168.0.45:8080/Tupi/rest/</string>-->
+    <string name="base_urlviaCep">https://viacep.com.br/ws/</string>
+    <string name="base_urlHereMaps">https://places.ls.hereapi.com/places/v1/</string>
+    <string name="heremaps_rotas">https://image.maps.ls.hereapi.com/mia/1.6/routing?apiKey=Rdeum4HzyFQ0em1qX5dj8PncvMDQbNd1bsUFnk76ilU%s</string>
+
+    <string name="url_termos">https://docs.tupiondemand.com.br/termos/</string>
+    <string name="url_privacidade">https://docs.tupiondemand.com.br/privacidade/</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300003492085",
+    "project_id": "tupi-8d39c",
+    "storage_bucket": "tupi-8d39c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300003492085:android:b7a4aff25ab7659d0d45bc",
+        "android_client_info": {
+          "package_name": "mobi.audax.tupi.passageiro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300003492085-5n6930jb2mem50vloe8p3jngos0o2jnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkyKy7cuGhnz0g-Mq3zbdLmjOFJfb3UWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300003492085-5n6930jb2mem50vloe8p3jngos0o2jnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
